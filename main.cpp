@@ -153,7 +153,7 @@ int main()
 {
     __bmp_cpp bmpread;
     bmpread.read_bmp("tfile.bmp",true);
-    cout << "Hello world!" << endl;
+    cout << "Compleated read" << endl;
     return 0;
 }
 
